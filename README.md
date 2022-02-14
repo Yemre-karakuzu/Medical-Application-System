@@ -1,5 +1,7 @@
 # medical-application-system
 
+## Project Images
+![plot](./src/assets/screen.png)
 ## Project setup
 ```
 yarn install
